@@ -5,9 +5,9 @@ These project has to do with the collection and examination of data to answer qu
 # Data sources
 The dataset for analysis will be selected from open-source platforms provided as part of the course.
 # Tools Used
-* Microsoft Excel                     download here 
-    +  For Data Cleaning
-    +  For Analysis
+* Microsoft Excel
+    + For Data Cleaning
+    + For Analysis
     + For Visualization
 * SQL - Structured Query Language
     +  For querying of Data
